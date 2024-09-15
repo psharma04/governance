@@ -23,11 +23,11 @@ menu:
     - name: Minutes
       pageRef: /minutes
       weight: 1
-    - name: About
-      pageRef: /about
-      weight: 2
     - name: Regulations
       pageRef: /regulations
+      weight: 2
+    - name: About
+      pageRef: /about
       weight: 3
     - name: Contact ↗
       url: "https://noiseatunsw.com/contact"
