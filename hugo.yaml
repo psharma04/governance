@@ -58,5 +58,5 @@ params:
     displayPoweredBy: false
 
   editURL:
-    enable: false
+    enable: true
     base: "https://github.com/noiseatunsw/governance/edit/main/content"
