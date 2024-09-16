@@ -9,7 +9,6 @@ This is the governance portal for Noise@UNSW.
 
 {{< cards >}}
   {{< card link="minutes" title="Meeting Minutes" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
   {{< card link="regulations" title="Regulations" icon="scroll" >}}
 {{< /cards >}}
 
