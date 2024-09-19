@@ -9,6 +9,7 @@ title: Week 2 Term 3 2024 Agenda
 > This includes complete and incomplete actionables.
 
 - [ ] Alice to delegate for SRC coverage
+- [ ] The Lay of the Land: Pepsi and Diya on the State of the SRC
 - [ ] Someone to write SAlt might take over the SRC
 - [ ] Podcast to be approved
 - [ ] Everyone to think of fundraising ideas
@@ -43,6 +44,10 @@ The organisation will resolve
 ### Matters for Discussion
 
 > Matters for Discussion can pre-empt the following week's matter for resolution.
+
+#### That Noise should formally endorse the SRC ticket run by Pepsi, Diya and other outgoing Noise editors.
+
+From [Alex Neale](https://www.noiseatunsw.com/author/alex-neale/)
 
 ### New Actionables
 
