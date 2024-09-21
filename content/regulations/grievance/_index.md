@@ -1,6 +1,5 @@
 ---
 title: Grievance and Dispute Resolution Policy
-draft: true
 ---
 
 The Grievance and Dispute Resolution Policy (GDP) outlines the required behaviour of the Noise team when a grievance or other issue is raised regarding the conduct of one or more members of the Noise editorial. This policy applies to all contributors of the publication, including temporary and guest editors.
