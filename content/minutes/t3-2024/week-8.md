@@ -31,16 +31,16 @@ No motions were moved
 
 ### Matters for Discussion
 
-Aricles:
+Articles:
 - Election results to go out today at 5pm
-- Arc clubs attentence grant changes go out on monday next week
+- Arc clubs attendance grant changes go out on monday next week
 - Mia assembally article to go out next week or week after
 - Alice to do last SRC coverage for this year
 - Friday next week Ellena queensland election
 - Thursday next week Alyss rainbow politics article
 - Tuesday next week Billy US election article, results article on Monday week 10
 - Tuesday week 10 Ren queerspace article
-- Friday week 10 State of Noise
+- Friday week 10 State of Noise, Pepsi todo (needs to be voted on before publication)
 - Luke english royals articled, talk to andi about it
 
 Coordinator Elections:
@@ -54,7 +54,7 @@ Coordinator Elections:
 O-week print edition:
 - Editors can submit their favourite articles or new articles
 - Need to have some o-week specific oweek content
-- Clubs can pwyw for advertising
+- Clubs can "pay-what-you-want" for advertising (details TBC)
 - Print edition to include art and poetry too
 - Reach out to the wider unsw community to subit things
 - Researched costs for print edition
@@ -68,12 +68,12 @@ Creative Works:
 
 ### Actionables Carried Forward
 
-#### New Item 1
+#### Print Editions for 2025
 
 - Finish researching print edition costs
 - Buy equiptment for print editions
 
-#### New Item 2
+#### Policies and Governance Rework
 
 - Alice and Pepsi to do policy rework over the holidays
 
