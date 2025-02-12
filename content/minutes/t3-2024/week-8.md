@@ -1,5 +1,5 @@
 ---
-title: Week 8 Term T3 2024 Minutes
+title: Week 8 Term 3 2024 Minutes
 ---
 
 - Date: 31/10/2024
