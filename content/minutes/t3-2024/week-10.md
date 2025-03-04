@@ -81,4 +81,4 @@ Votes were taken online, 100% turnout.
 - Mia
 
 
-Approved and published on dd/mm/yyyy.
+Approved and published on 27/02/2025.
