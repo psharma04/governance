@@ -76,7 +76,8 @@ Votes were taken online, 100% turnout.
 ## Approvals
 
 - Ren (author)
-- Approver 1
+- Pepsi
+
 - Approver 2
 
 Approved and published on dd/mm/yyyy.
