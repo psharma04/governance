@@ -85,6 +85,6 @@ Briefly touched upon, with specific mention of adding further criteria to be eli
 
 - Luke L (author)
 - Ren
-- Approver 2
+- Pepsi
 
 Approved and published on dd/mm/yyyy.
