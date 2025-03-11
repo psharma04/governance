@@ -19,7 +19,7 @@ title: Week 3 Term 1 2025 Minutes
 
 Upcoming podcast segments:
 - Segment 1: SRC Coverage. Guests: Afnan, Mia, Marcus  
-- Segment 2: Silly Hour. Guesis: Afnan, Mia, Diya. Topic already decided.  
+- Segment 2: Silly Hour. Guests: Afnan, Mia, Diya. Topic already decided.  
 - Segment 3: Protest Laws, tie in with recent Mardi Gras. Guests: Afnan, Joseph, Alyss.
 
 TikTok Segment Feedback:
@@ -49,3 +49,5 @@ Marcus to book studio for podcast recording, same time as previously
 Pepsi to create Conflict of Interest Register for Noise
 
 ## Approvals
+- Luke L (Author)
+- Pepsi
