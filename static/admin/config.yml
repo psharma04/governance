@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: psharma04/governance
   branch: main
+  use_graphql: true
 media_folder: /static/media
 public_folder: /media
 publish_mode: editorial_workflow
@@ -11,5 +13,4 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
