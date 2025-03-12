@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: psharma04/governance
+  repo: noiseatunsw/governance
   branch: main
   base_url: https://cms-auth.noiseatunsw.com/
 media_folder: /static/media
