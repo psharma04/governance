@@ -3,11 +3,11 @@ backend:
   branch: main
 media_folder: /static/media
 public_folder: /media
-
+publish_mode: editorial_workflow
 collections:
   - name: "Minutes"
-    label: "Minutes"
-    folder: "content/minutes"
+    label: "Minutes (T1 2025)"
+    folder: "content/minutes/t1-2025"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
