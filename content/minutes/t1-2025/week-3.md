@@ -51,3 +51,4 @@ Pepsi to create Conflict of Interest Register for Noise
 ## Approvals
 - Luke L (Author)
 - Pepsi
+- Mia
