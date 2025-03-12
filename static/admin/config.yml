@@ -3,6 +3,7 @@ backend:
   repo: psharma04/governance
   branch: main
   use_graphql: true
+  base_url: https://sveltia-cms-auth.rbxii3.workers.dev/
 media_folder: /static/media
 public_folder: /media
 publish_mode: editorial_workflow
