@@ -1,0 +1,16 @@
+backend:
+  name: github
+  repo: noiseatunsw/governance
+  branch: main
+  base_url: https://cms-auth.noiseatunsw.com/
+media_folder: /static/media
+public_folder: /media
+publish_mode: editorial_workflow
+collections:
+  - name: "Minutes"
+    label: "Minutes (T1 2025)"
+    folder: "content/minutes/t1-2025"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
