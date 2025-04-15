@@ -14,3 +14,10 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "Conflicts of Interest Register"
+    label: "Conflicts of Interest Register"
+    folder: "content/conflicts-of-interest"
+    create: true
+    fields:
+      - {label: "Name", name: "title", widget: "string"}
+      - {label: "List", name: "body", widget: "markdown"}
